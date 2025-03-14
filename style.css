@@ -1,0 +1,37 @@
+
+header
+{
+ background-color: #333;
+ color: #fff;
+ text-align: center;
+ padding: 1em 0;
+}
+nav ul
+{
+ list-style-type: none;
+}
+nav ul li
+{
+ display: inline;
+ margin: 0 10px;
+}
+a
+{
+ color: #fff;
+ text-deocration: none;
+}
+
+section
+{
+ padding: 20px;
+}
+footer
+{
+ background-color: #333;
+ color: #fff;
+ text-align: center;
+ padding: fixed;
+ postion: fixed;
+ bottom: 0;
+ width: 100%;
+}
